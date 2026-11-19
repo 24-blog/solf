@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 1665" width="860" height="1665" font-family="'Hiragino Sans','Yu Gothic','Noto Sans JP','Meiryo',sans-serif" role="img" aria-label="不同意性交罪の成立要件と裁判所の判断の整理図" xmlns:c2pa="http://c2pa.org/manifest">
+<!-- 背景 -->
+<rect width="860" height="1665" fill="#f7f6f2"/>
+
+<!-- ===== ヘッダー ===== -->
+<rect x="0" y="0" width="860" height="132" fill="#1d2b3a"/>
+<text x="30" y="50" font-size="24" font-weight="700" fill="#fff">不同意性交罪の成立要件と、裁判所の判断</text>
+<text x="30" y="80" font-size="14" fill="#b9c7d6">ジャンポケ斉藤氏の裁判における、要件ごとの認定・判断の整理</text>
+<!-- 要件チップ -->
+<rect x="30" y="96" width="138" height="26" rx="13" fill="#2f4358"/><text x="43" y="114" font-size="13" fill="#e8eef5">①同意しない意思</text>
+<text x="174" y="115" font-size="14" fill="#7f95ab">＋</text>
+<rect x="194" y="96" width="180" height="26" rx="13" fill="#2f4358"/><text x="207" y="114" font-size="13" fill="#e8eef5">②意思を表すことが困難</text>
+<text x="380" y="115" font-size="14" fill="#7f95ab">＋</text>
+<rect x="400" y="96" width="124" height="26" rx="13" fill="#2f4358"/><text x="413" y="114" font-size="13" fill="#e8eef5">③それに乗じた</text>
+<text x="530" y="115" font-size="14" fill="#7f95ab">＋</text>
+<rect x="550" y="96" width="82" height="26" rx="13" fill="#2f4358"/><text x="563" y="114" font-size="13" fill="#e8eef5">④性行為</text>
+
+<!-- ===== 要件1:同意しない意思があること ===== -->
+<rect x="30" y="158" width="800" height="428" rx="10" fill="#fff" stroke="#d5d9de"/>
+<path d="M30 168 a10 10 0 0 1 10 -10 h780 a10 10 0 0 1 10 10 v30 h-800 z" fill="#eef1f5"/>
+<circle cx="58" cy="180" r="15" fill="#1d2b3a"/><text x="58" y="186" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<text x="84" y="186" font-size="17" font-weight="700" fill="#1d2b3a">同意しない意思があること</text>
+<!-- 認定された物理的証拠 -->
+<rect x="40" y="208" width="780" height="64" rx="6" fill="#e6edf8"/>
+<rect x="40" y="208" width="5" height="64" rx="2" fill="#2f5d9b"/>
+<text x="56" y="231" font-size="12" font-weight="700" fill="#2f5d9b">認定された</text>
+<text x="56" y="248" font-size="12" font-weight="700" fill="#2f5d9b">物理的証拠</text>
+<text x="160" y="231" font-size="14" fill="#2b3038">・事件当日、女性が母親へLINEで「気持ち悪い」「キスしようとしてきた」旨を送信</text>
+<text x="160" y="252" font-size="14" fill="#2b3038">・被害の直後、交際相手・知人へも、被告への嫌悪感を伝えるメッセージを送信</text>
+<!-- 認定された証言 -->
+<rect x="40" y="280" width="780" height="64" rx="6" fill="#e4f1ee"/>
+<rect x="40" y="280" width="5" height="64" rx="2" fill="#2a7f77"/>
+<text x="56" y="303" font-size="12" font-weight="700" fill="#2a7f77">認定された</text>
+<text x="56" y="320" font-size="12" font-weight="700" fill="#2a7f77">証言</text>
+<text x="56" y="337" font-size="10.5" fill="#2a7f77">(物理的証拠なし)</text>
+<text x="160" y="303" font-size="14" fill="#2b3038">・同意しない意思を示す証言が多数認定された</text>
+<!-- 認められなかった証言 -->
+<rect x="40" y="352" width="780" height="127" rx="6" fill="#f6ebec"/>
+<rect x="40" y="352" width="5" height="127" rx="2" fill="#a4545c"/>
+<text x="56" y="375" font-size="12" font-weight="700" fill="#a4545c">認められなかった</text>
+<text x="56" y="392" font-size="12" font-weight="700" fill="#a4545c">証言</text>
+<text x="56" y="409" font-size="10.5" fill="#a4545c">(物理的証拠なし)</text>
+<text x="160" y="375" font-size="14" fill="#2b3038">・女性は自分に好意があると思った:「トリオの中で一番好き」と言われ、好意を持たれていると思</text>
+<text x="160" y="396" font-size="14" fill="#2b3038">　った(被告の供述)</text>
+<text x="160" y="417" font-size="14" fill="#2b3038">・女性は行為中も嫌がっていなかった:キスに積極的に応じ、女性の側からも求めてきた(被告の供</text>
+<text x="160" y="438" font-size="14" fill="#2b3038">　述)</text>
+<text x="160" y="459" font-size="14" fill="#2b3038">・女性は行為の後も普通の様子だった:通常どおり振る舞っていた(被告の供述)</text>
+<!-- 裁判所の判断 -->
+<rect x="40" y="487" width="780" height="85" rx="6" fill="#fbf2de"/>
+<rect x="40" y="487" width="5" height="85" rx="2" fill="#a8730f"/>
+<text x="56" y="510" font-size="12" font-weight="700" fill="#a8730f">裁判所の</text>
+<text x="56" y="527" font-size="12" font-weight="700" fill="#a8730f">判断</text>
+<text x="160" y="510" font-size="14" fill="#2b3038">・好意の発言はファンとしてのもので、恋愛感情ではない</text>
+<text x="160" y="531" font-size="14" fill="#2b3038">・被告の供述は変遷しており、女性の証言と食い違う部分は信用できない</text>
+<text x="160" y="552" font-size="14" fill="#2b3038">・撮影に支障を出さないための自然な行動で、同意の表れとはいえない</text>
+
+<!-- ===== 要件2:同意しない意思を表すことが困難な状態だったこと ===== -->
+<rect x="30" y="602" width="800" height="412" rx="10" fill="#fff" stroke="#d5d9de"/>
+<path d="M30 612 a10 10 0 0 1 10 -10 h780 a10 10 0 0 1 10 10 v30 h-800 z" fill="#eef1f5"/>
+<circle cx="58" cy="624" r="15" fill="#1d2b3a"/><text x="58" y="630" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<text x="84" y="630" font-size="17" font-weight="700" fill="#1d2b3a">同意しない意思を表すことが困難な状態だったこと</text>
+<!-- 認定された物理的証拠 -->
+<rect x="40" y="652" width="780" height="48" rx="6" fill="#e6edf8"/>
+<rect x="40" y="652" width="5" height="48" rx="2" fill="#2f5d9b"/>
+<text x="56" y="675" font-size="12" font-weight="700" fill="#2f5d9b">認定された</text>
+<text x="56" y="692" font-size="12" font-weight="700" fill="#2f5d9b">物理的証拠</text>
+<text x="160" y="675" font-size="14" fill="#8a919c">報道からは確認できない</text>
+<!-- 認定された証言 -->
+<rect x="40" y="708" width="780" height="85" rx="6" fill="#e4f1ee"/>
+<rect x="40" y="708" width="5" height="85" rx="2" fill="#2a7f77"/>
+<text x="56" y="731" font-size="12" font-weight="700" fill="#2a7f77">認定された</text>
+<text x="56" y="748" font-size="12" font-weight="700" fill="#2a7f77">証言</text>
+<text x="56" y="765" font-size="10.5" fill="#2a7f77">(物理的証拠なし)</text>
+<text x="160" y="731" font-size="14" fill="#2b3038">・突然の性的行為に驚き、体が硬直した(女性の証言)</text>
+<text x="160" y="752" font-size="14" fill="#2b3038">・不利益を憂慮した:被告を怒らせれば今後の仕事がなくなると考え、強く抵抗できなかった(女性</text>
+<text x="160" y="773" font-size="14" fill="#2b3038">　の証言)</text>
+<!-- 認められなかった証言 -->
+<rect x="40" y="801" width="780" height="64" rx="6" fill="#f6ebec"/>
+<rect x="40" y="801" width="5" height="64" rx="2" fill="#a4545c"/>
+<text x="56" y="824" font-size="12" font-weight="700" fill="#a4545c">認められなかった</text>
+<text x="56" y="841" font-size="12" font-weight="700" fill="#a4545c">証言</text>
+<text x="56" y="858" font-size="10.5" fill="#a4545c">(物理的証拠なし)</text>
+<text x="160" y="824" font-size="14" fill="#2b3038">・被告は女性に不利益を与えられる立場にない:番組のキャスティング権限はなく、芸能界での立場</text>
+<text x="160" y="845" font-size="14" fill="#2b3038">　の差も利用していない(弁護側の主張)</text>
+<!-- 裁判所の判断 -->
+<rect x="40" y="873" width="780" height="127" rx="6" fill="#fbf2de"/>
+<rect x="40" y="873" width="5" height="127" rx="2" fill="#a8730f"/>
+<text x="56" y="896" font-size="12" font-weight="700" fill="#a8730f">裁判所の</text>
+<text x="56" y="913" font-size="12" font-weight="700" fill="#a8730f">判断</text>
+<text x="160" y="896" font-size="14" fill="#2b3038">・予想外の出来事に対する恐怖・驚愕・フリーズの状態を認定。初対面で、ロケバス内で性的行為が</text>
+<text x="160" y="917" font-size="14" fill="#2b3038">　行われるとは通常想定されない</text>
+<text x="160" y="938" font-size="14" fill="#2b3038">・社会的地位に基づく影響力による不利益への懸念も認定。大手事務所に所属し人脈のある被告の機</text>
+<text x="160" y="959" font-size="14" fill="#2b3038">　嫌を損ねれば仕事が減ると恐れた心情は理解できる</text>
+<text x="160" y="980" font-size="14" fill="#2b3038">・実際に影響力がなくても、不利益を受けると思えば、自由な意思決定は困難になりうる</text>
+
+<!-- ===== 要件3:その状態に乗じたこと(故意) ===== -->
+<rect x="30" y="1030" width="800" height="467" rx="10" fill="#fff" stroke="#d5d9de"/>
+<path d="M30 1040 a10 10 0 0 1 10 -10 h780 a10 10 0 0 1 10 10 v30 h-800 z" fill="#eef1f5"/>
+<circle cx="58" cy="1052" r="15" fill="#1d2b3a"/><text x="58" y="1058" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<text x="84" y="1058" font-size="17" font-weight="700" fill="#1d2b3a">その状態に乗じたこと(故意)</text>
+<!-- 認定された物理的証拠 -->
+<rect x="40" y="1080" width="780" height="48" rx="6" fill="#e6edf8"/>
+<rect x="40" y="1080" width="5" height="48" rx="2" fill="#2f5d9b"/>
+<text x="56" y="1103" font-size="12" font-weight="700" fill="#2f5d9b">認定された</text>
+<text x="56" y="1120" font-size="12" font-weight="700" fill="#2f5d9b">物理的証拠</text>
+<text x="160" y="1103" font-size="14" fill="#8a919c">報道からは確認できない</text>
+<!-- 認定された証言 -->
+<rect x="40" y="1136" width="780" height="106" rx="6" fill="#e4f1ee"/>
+<rect x="40" y="1136" width="5" height="106" rx="2" fill="#2a7f77"/>
+<text x="56" y="1159" font-size="12" font-weight="700" fill="#2a7f77">認定された</text>
+<text x="56" y="1176" font-size="12" font-weight="700" fill="#2a7f77">証言</text>
+<text x="56" y="1193" font-size="10.5" fill="#2a7f77">(物理的証拠なし)</text>
+<text x="160" y="1159" font-size="14" fill="#2b3038">・被告は、女性が嫌がっていることを認識していた:女性は「仕事が回らなくなるのでやめてくださ</text>
+<text x="160" y="1180" font-size="14" fill="#2b3038">　い」と伝え、被告は行為の後に「ごめんね」と言った(女性・被告の証言)</text>
+<text x="160" y="1201" font-size="14" fill="#2b3038">・被告は、芸能界での立場の差を認識していた:女性の活動内容や事務所所属の有無を質問した(被</text>
+<text x="160" y="1222" font-size="14" fill="#2b3038">　告の証言)</text>
+<!-- 認められなかった証言 -->
+<rect x="40" y="1250" width="780" height="85" rx="6" fill="#f6ebec"/>
+<rect x="40" y="1250" width="5" height="85" rx="2" fill="#a4545c"/>
+<text x="56" y="1273" font-size="12" font-weight="700" fill="#a4545c">認められなかった</text>
+<text x="56" y="1290" font-size="12" font-weight="700" fill="#a4545c">証言</text>
+<text x="56" y="1307" font-size="10.5" fill="#a4545c">(物理的証拠なし)</text>
+<text x="160" y="1273" font-size="14" fill="#2b3038">・被告は、女性が嫌がっていないことを確認していた:キスや接触の後に「嫌じゃなかったですか」</text>
+<text x="160" y="1294" font-size="14" fill="#2b3038">　と尋ね、「嫌じゃないです」と答えた。反応から同意があると思い、拒否されればやめるつもりだ</text>
+<text x="160" y="1315" font-size="14" fill="#2b3038">　った(被告の供述)</text>
+<!-- 裁判所の判断 -->
+<rect x="40" y="1343" width="780" height="106" rx="6" fill="#fbf2de"/>
+<rect x="40" y="1343" width="5" height="106" rx="2" fill="#a8730f"/>
+<text x="56" y="1366" font-size="12" font-weight="700" fill="#a8730f">裁判所の</text>
+<text x="56" y="1383" font-size="12" font-weight="700" fill="#a8730f">判断</text>
+<text x="160" y="1366" font-size="14" fill="#2b3038">・拒否の発言と謝罪の発言から、被告は女性が拒んでいることを知っていたと認定</text>
+<text x="160" y="1387" font-size="14" fill="#2b3038">・女性が事務所に所属していないと確認したうえで、立場の差から強く抵抗できないことを、少なく</text>
+<text x="160" y="1408" font-size="14" fill="#2b3038">　とも未必的に認識していた</text>
+<text x="160" y="1429" font-size="14" fill="#2b3038">・被告の故意を認め、同意があったという誤信(同意誤認)は認めなかった</text>
+<text x="46" y="1477" font-size="13" fill="#5a6270">※ 「乗じて」とは、明示や示唆がなくても、状態を知っていれば足りる</text>
+
+<!-- ===== 要件4:性行為をしたこと ===== -->
+<rect x="30" y="1513" width="800" height="50" rx="10" fill="#fff" stroke="#d5d9de"/>
+<circle cx="58" cy="1538" r="15" fill="#1d2b3a"/><text x="58" y="1544" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">4</text>
+<text x="84" y="1544" font-size="17" font-weight="700" fill="#1d2b3a">性行為をしたこと</text>
+<text x="814" y="1543" font-size="14" fill="#5a6270" text-anchor="end">この点は争われていない</text>
+
+<!-- ===== フッター(出典・注記) ===== -->
+<line x1="30" y1="1585" x2="830" y2="1585" stroke="#d5d9de"/>
+<text x="30" y="1607" font-size="12" fill="#6b7380">出典:X(@anzuchanw)の投稿 https://x.com/anzuchanw/status/2122529329011990753 を参考に、内容を再構成して作成。</text>
+<text x="30" y="1627" font-size="12" fill="#6b7380">文言は要約・言い換えであり、正確な内容は判決文や報道で確認してください。</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpiMGNjZDE2Ni1hMjVlLTRlM2MtYjhiMC00YmZjNTJiZjIyMDIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaE5Wtbd1Vu/NC93n7/hcby8AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozMGMzZmIwYS1lM2FhLTQyYzctYjQyMS1mZjNhNWFiNzFmZDdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNocwYyyIYcApvskOyV9Tm4vAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggSdmPUUAvEhq4uJvMnGjXp6U19iK+vaZ6YKzngDJLycOkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaNaN94ObhJi/Pkhe4l52gxgAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIBoe7bXSpTy2NcycTREcJJF3tU92O6x8GwrlDL7cQUsKZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GTbaZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmIwY2NkMTY2LWEyNWUtNGUzYy1iOGIwLTRiZmM1MmJmMjIwMi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmU2NDQzZjA4LTdmN2QtNGI1OC1iMWI1LTI3NjkwMmM4MjIwYnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBJ2Y9RQC8SGri4m8ycaNenpTX2Ir69pnpgrOeAMkvJw6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggYJkXIdQDYvqe9FFuQI9hCqyFfKx50h60ianlCOwessWiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggkn2xI+SbzPCQZGEFZcvsMMOJwZkxUtNsIWQUEuROkp90Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQMD9ZVD+V/z19gXSqyEpRm3NsefNqLWoJau9R8odz4iWcPG5rL87SI9xNK4QWtbVFiV2MY6ig67wyUitpvYvlyQ=</c2pa:manifest></metadata></svg>
